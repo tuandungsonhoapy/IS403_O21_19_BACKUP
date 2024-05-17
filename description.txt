@@ -1,0 +1,11 @@
+Description:
+- 3 file LG.csv, SAMSUNG.csv, Sony.csv chứa dữ liệu về chứng khoán của 3 tập toàn quốc gia lớn là LG, SAMSUNG, Sony. 
+- 3 tập đoàn trên đều có chung lĩnh vực là: điện tử và công nghệ.
+- Mô tả từng cột trong 3 file LG.csv, SAMSUNG.csv, Sony.csv:
+      + Date: Ngày giao dịch
+      + Open: Giá mở cửa của cổ phiếu vào ngày giao dịch.
+      + High: Giá cao nhất của cổ phiếu trong ngày giao dịch.
+      + Low: Giá thấp nhất của cổ phiếu trong ngày giao dịch.
+      + Close: Giá đóng cửa của cổ phiếu vào ngày giao dịch.
+      + Adj Close: Giá đóng cửa điều chỉnh của cổ phiếu. Giá này thường đã được điều chỉnh để phản ánh các biến động khác nhau như cổ tức, chia cổ tức, và phát hành cổ phiếu mới.
+      + Volume: Khối lượng giao dịch của cổ phiếu trong ngày, hay số lượng cổ phiếu đã được giao dịch trong ngày đó.
